@@ -1,2 +1,2 @@
-# Gall-Work-Sports-
-Plateforme d'emploi dans le domaine des sports et du esports 
+# GalléWorkSports
+La Maison de L'emploi du Sport et du esports  
